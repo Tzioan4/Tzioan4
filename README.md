@@ -40,8 +40,8 @@
 <h3>Projects</h3>
 <p align="left">
   <ul>
-    <li><a href="https://www.transformjs.com/" target="_blank"><b>TransformJS</b></a> - Fast Developer Tools (100/100 PageSpeed score).</li>
-    <li>Featured on <a href="https://launches.uicomet.com/products/transformjs-JLWqH" target="_blank"><b>UIComet Launches</b></a> (Automatically discovered and listed).</li>
+    <li><a href="https://www.transformjs.com/" target="_blank"><b>TransformJS</b></a> - Fast Developer Tools.</li>
+    <li>Featured on <a href="https://launches.uicomet.com/products/transformjs-JLWqH" target="_blank"><b>UIComet Launches</b></a>.</li>
     <li>Currently learning, experimenting, and building modern projects with <b>React</b>.</li>
   </ul>
 </p>
